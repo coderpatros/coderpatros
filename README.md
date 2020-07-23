@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Maybe if I was more interesting I'd have something here.
+
+![HitCount](http://hits.dwyl.com/coderpatros/coderpatros.svg)
