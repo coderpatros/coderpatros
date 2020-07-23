@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 Maybe if I was more interesting I'd have something here.
-
-![HitCount](http://hits.dwyl.com/coderpatros/coderpatros.svg)
