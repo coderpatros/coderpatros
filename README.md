@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Maybe if I was more interesting I'd have something here.
+
+If you get value out of what I do, and want to show your support, please head over to my [GitHub sponsors page](https://github.com/sponsors/coderpatros).
