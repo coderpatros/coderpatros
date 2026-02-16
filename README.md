@@ -1,3 +1,7 @@
-### Hey there 👋
+I work at the intersection of software engineering, product security, software supply chain transparency, and international standards development.
 
-I like coding and appsec stuff.
+As a product security leader at ServiceNow, I’ve managed a globally distributed team driving the maturity of secure software development practices for a platform trusted by over 8,100 customers, including 85% of the Fortune 500. My background spans hands-on secure design reviews and threat modeling, BSIMM assessments, and leading SSDF gap analyses that directly supported U.S. Federal Government contract assurance.
+
+Beyond my day job, I co-lead the OWASP CycloneDX project — one of the world’s most widely adopted SBOM standards, now ratified as ECMA-424 by Ecma International. I built the project’s governance framework, developed key tooling, initiated the Transparency Exchange API, and helped shape government guidance on SBOM adoption across multiple international jurisdictions. I’ve presented on software supply chain security at events including CISA SBOM-a-rama, Lockheed Martin’s Code.LM (keynote), Homeland Security Week, Swiss Cyber Storm, FOSDEM, and AusCERT.
+
+I also serve on the Executive Committee of Ecma International, the standards body behind ECMAScript (JavaScript), C#/.NET, and Office Open XML — contributing to the strategic oversight of technical committees shaping the future of software and system transparency, AI agent interoperability, and GPU shading languages.
