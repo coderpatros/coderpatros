@@ -12,8 +12,6 @@ I also serve on the Executive Committee of Ecma International, the standards bod
 
 ## 🔗 OWASP CycloneDX Ecosystem
 
-As co-lead of the OWASP CycloneDX project — one of the world's most widely adopted SBOM standards, now ratified as **ECMA-424** — I have built and maintained core tooling across the ecosystem.
-
 | Repository | Description |
 |---|---|
 | [CycloneDX/specification](https://github.com/CycloneDX/specification) | The full-stack Bill of Materials (BOM) standard covering SBOM, SaaSBOM, HBOM, AI/ML-BOM, CBOM, OBOM, MBOM, VDR, and more for software supply chain transparency and cyber risk reduction. |
