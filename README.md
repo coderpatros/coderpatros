@@ -21,7 +21,7 @@ As co-lead of the OWASP CycloneDX project — one of the world's most widely ado
 | [CycloneDX/cyclonedx-dotnet](https://github.com/CycloneDX/cyclonedx-dotnet) | .NET global tool and Docker image that generates CycloneDX SBOMs from .NET solutions and projects (`.sln`, `.csproj`, `.fsproj`, etc.). One of the most widely used SBOM generators in the .NET ecosystem. |
 | [cyclonedx-dotnet-msbuild](https://github.com/coderpatros/cyclonedx-dotnet-msbuild) | An MSBuild task that automatically generates CycloneDX SBOMs during the build process, enabling seamless integration into existing .NET build pipelines. |
 | [CycloneDX/cyclonedx-web-tool](https://github.com/CycloneDX/cyclonedx-web-tool) | Browser-based tool for viewing and working with CycloneDX BOMs, making SBOM data accessible without CLI tools. |
-| [CycloneDX/cyclonedx-dotnet-library](https://github.com/CycloneDX/cyclonedx-dotnet-library/) | One of the few "reference" implementations of the CycloneDX standard, a .NET library to consume and produce CycloneDX Software Bill of Materials (SBOM). |
+| [CycloneDX/cyclonedx-dotnet-library](https://github.com/CycloneDX/cyclonedx-dotnet-library/) | One of the few reference implementations of the CycloneDX standard, a .NET library to consume and produce CycloneDX Software Bill of Materials (SBOM). |
 
 ---
 
