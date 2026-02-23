@@ -35,7 +35,7 @@ I also serve on the Executive Committee of Ecma International, the standards bod
 
 | Repository | Description |
 |---|---|
-| [dotnet-jsf](https://github.com/coderpatros/dotnet-jsf) | A .NET library and CLI implementing [JSON Signature Format (JSF)](https://cyberphone.github.io/doc/security/jsf.html) — a scheme for embedding cryptographic signatures directly within JSON objects using JSON Canonicalization Scheme (RFC 8785). Supports 15 algorithms across ECDSA, RSA PKCS#1 v1.5, RSA-PSS, EdDSA, and HMAC families, with single signatures, multi-signatures, and signature chains. |
+| [dotnet-jsf](https://github.com/coderpatros/dotnet-jsf) | The .NET library and CLI implementing [JSON Signature Format (JSF)](https://cyberphone.github.io/doc/security/jsf.html) — a scheme for embedding cryptographic signatures directly within JSON objects using JSON Canonicalization Scheme (RFC 8785). Supports 15 algorithms across ECDSA, RSA PKCS#1 v1.5, RSA-PSS, EdDSA, and HMAC families, with single signatures, multi-signatures, and signature chains. |
 
 ---
 
