@@ -20,6 +20,8 @@ I also serve on the Executive Committee of Ecma International, the standards bod
 | [cyclonedx-dotnet-msbuild](https://github.com/coderpatros/cyclonedx-dotnet-msbuild) | An MSBuild task that automatically generates CycloneDX SBOMs during the build process, enabling seamless integration into existing .NET build pipelines. |
 | [CycloneDX/cyclonedx-web-tool](https://github.com/CycloneDX/cyclonedx-web-tool) | Browser-based tool for viewing and working with CycloneDX BOMs, making SBOM data accessible without CLI tools. |
 | [CycloneDX/cyclonedx-dotnet-library](https://github.com/CycloneDX/cyclonedx-dotnet-library/) | One of the few reference implementations of the CycloneDX standard, a .NET library to consume and produce CycloneDX Software Bill of Materials (SBOM). |
+| [cyclonedx-integrity-verification](https://github.com/coderpatros/cyclonedx-integrity-verification) | A CLI tool that validates files against CycloneDX SBOMs, performing JSF signature validation, cryptographic hash verification, and untracked file detection. Supports Linux, macOS, and Windows across x64 and ARM64. |
+| [cyclonedx-fortran-fpm](https://github.com/coderpatros/cyclonedx-fortran-fpm) | A CycloneDX SBOM generator for Fortran fpm projects. Parses `fpm.toml` manifests, recursively resolves Git dependencies, builds dependency graphs, and outputs CycloneDX 1.6 JSON. Written entirely in Fortran. |
 
 ---
 
