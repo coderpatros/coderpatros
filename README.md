@@ -1,2 +1,3 @@
 Technical leader with 25 years of experience across software engineering, application security, and international standards development. Co-lead of the OWASP CycloneDX SBOM standard (ECMA-424) and elected member of the Ecma International Executive Committee. By day, I manage product security at ServiceNow — by night (and weekends), I'm working to make software supply chains more transparent and secure for everyone.
+
 I care about building things that matter, contributing to open standards, and making security an enabler rather than a roadblock. Most of my open source work lives in the CycloneDX ecosystem, spanning tooling in various ecosystems from C# to Fortran.
